@@ -1,5 +1,5 @@
 # Pytest-assignment-1
-
-name = input ("What is your name?:   ")
+name = input("what is your name? ")
+print ("Good evening")
 print (name)
-print (hello)
+
